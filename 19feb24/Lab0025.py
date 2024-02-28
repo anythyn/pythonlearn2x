@@ -1,0 +1,7 @@
+r,t,y = ('w12',23,90)
+print(r)
+print(type(r))
+print(t)
+print(type(t))
+print(y)
+print(type(y))
